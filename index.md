@@ -1,23 +1,25 @@
 some text
-*Italic*
+*Italic* and
 **Bold**
-# Heading 1
-## Heading 2
-[Link](https://commonmark.org/help/)
+# This is Heading 1
+## This is Heading 2
+[Link to cheat sheet](https://commonmark.org/help/)
 ![Image](https://i.kym-cdn.com/photos/images/original/001/471/227/dd0.png)
-> Blockquote
-* List
-* List
-* List
-1. One
-2. Two
-3. Three
-Horizontal rule:
+> This is a Blockquote
+* This
+* is 
+* a
+* list
+
+1. This
+2. is
+3. another
+4. list
+
 
 ---
-`Inline code` with backticks
+`Cool yellow text` with backticks
 ```
 # code block
-print '3 backticks or'
-print 'indent 4 spaces'
+some more cool formatted text
 ```
