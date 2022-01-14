@@ -5,4 +5,5 @@ Step 1: Install VS Code
 
 * Download Visual Studio Code using [this link](https://code.visualstudio.com/download)
 * Opening VS Code should lead to a screen that looks like this:
-* ![Lab 1](https://user-images.githubusercontent.com/94575562/149240015-c07f636a-9ff5-4106-a4a1-ec22bb76a779.png)
+![vscode1](https://user-images.githubusercontent.com/94575562/149443219-3a1b3671-9a6e-456d-bff8-62d8c7449429.png)
+
