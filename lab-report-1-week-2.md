@@ -30,3 +30,6 @@ Try running some commands like `cd`, `ls`, `pwd`, `mkdir`, and `cp` a few of dif
 
 This is what running `ls -lat` and `ls -a` looked like for me:
 ![step3](https://user-images.githubusercontent.com/94575562/149446408-17afff79-498b-4554-b140-84b057408048.PNG)
+
+Step 4: Moving Files with `scp`
+---
