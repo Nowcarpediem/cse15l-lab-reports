@@ -33,3 +33,21 @@ This is what running `ls -lat` and `ls -a` looked like for me:
 
 Step 4: Moving Files with `scp`
 ---
+* The `scp` command will allow you to copy files from your computer to a remote computer
+* Create a file on your computer called `WhereAmI.java` and put the following contents into it:
+```
+class WhereAmI {
+  public static void main(String[] args) {
+    System.out.println(System.getProperty("os.name"));
+    System.out.println(System.getProperty("user.name"));
+    System.out.println(System.getProperty("user.home"));
+    System.out.println(System.getProperty("user.dir"));
+  }
+}
+```
+* Then, run this command using the terminal from the directory where you made this file
+```
+$ scp WhereAmI.java cs15lwi22zz@ieng6.ucsd.edu:~/
+```
+The result should look something like this:
+![step4](https://user-images.githubusercontent.com/94575562/149448188-c71fe741-0046-4cb0-aad8-07e5cfbf1b48.PNG)
