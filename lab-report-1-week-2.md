@@ -19,3 +19,7 @@ $ ssh cs15lwi22zz@ieng6.ucsd.edu
 ```
 * The terminal will prompt you for a password which should be the same as the one you use for your UCSD account. Once entered the result should look like this:         
 ![step2](https://user-images.githubusercontent.com/94575562/149444976-9d3b438d-d882-4844-9e9b-ab5c453b794a.png)
+
+Step 3: Trying Some Commands
+---
+Try running some commands
