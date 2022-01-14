@@ -24,4 +24,7 @@ Step 3: Trying Some Commands
 ---
 Try running some commands like `cd`, `ls`, `pwd`, `mkdir`, and `cp` a few of different ways listed below:
 * `cd ~`
-* 
+* `cd`
+* `ls -lat`
+* `ls -a`
+This is what running `ls -lat` and `ls -a` looked like for me:
