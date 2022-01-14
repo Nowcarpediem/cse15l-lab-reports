@@ -9,3 +9,5 @@ Step 1: Install VS Code
 
 Step 2: Remotely Connecting
 ---
+* Be sure to download [OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse) if you're on Windows
+* This program allows your computer to connect to other computers
