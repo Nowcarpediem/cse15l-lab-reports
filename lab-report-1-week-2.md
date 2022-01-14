@@ -108,3 +108,12 @@ $ scp /Users/joe/.ssh/id_rsa.pub cs15lwi22@ieng6.ucsd.edu:~/.ssh/authorized_keys
 You should now be able to `ssh` or `scp` from thie client to the server without entering your password:
 
 ![step5](https://user-images.githubusercontent.com/94575562/149450188-354bce29-4d94-4dad-9064-86117710c326.png)
+
+Step 6: Optimizing Remote Running
+---
+
+Try running the following code with your own account:
+
+![step6](https://user-images.githubusercontent.com/94575562/149452574-a08ddad2-ca79-443d-91a3-d5573da1e38c.PNG)
+
+This allows you to make a local edit to `WhereAmI.java`, then copy it to the remote server and run it
