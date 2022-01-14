@@ -13,3 +13,7 @@ Step 2: Remotely Connecting
 * This program allows your computer to connect to other computers
 * Then, look up your course specific account [here](https://sdacs.ucsd.edu/~icc/index.php)
 * Next, you'll want to open the terminal in VS Code by pressing Ctr+Shift+` or just by clicking on the New Terminal button under the Terminal tab on the tool bar on the upper left corner of your window
+* Enter the following command into the terminal but with the `zz` replaced by the letters in your course specific account:
+```
+$ ssh cs15lwi22zz@ieng6.ucsd.edu
+```
