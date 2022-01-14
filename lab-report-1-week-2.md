@@ -11,3 +11,5 @@ Step 2: Remotely Connecting
 ---
 * Be sure to download [OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse) if you're on Windows
 * This program allows your computer to connect to other computers
+* Then, look up your course specific account [here](https://sdacs.ucsd.edu/~icc/index.php)
+* Next. you'll want to open the terminal in VS Code by pressing Ctr+Shift+` or just by clicking on the New Terminal button under the Terminal tab on the tool bar on the upper left
