@@ -49,5 +49,7 @@ class WhereAmI {
 ```
 $ scp WhereAmI.java cs15lwi22zz@ieng6.ucsd.edu:~/
 ```
-The result should look something like this:
+* The result should look something like this:
 ![step4](https://user-images.githubusercontent.com/94575562/149448188-c71fe741-0046-4cb0-aad8-07e5cfbf1b48.PNG)
+* Once you log into `ieng6` with `ssh` again and use `ls`, the file should be in your home directory:
+![step4 2](https://user-images.githubusercontent.com/94575562/149449359-48dbbecc-f631-44f1-90c8-bc360c98bdb8.PNG)
