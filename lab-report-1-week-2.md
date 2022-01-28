@@ -112,8 +112,15 @@ You should now be able to `ssh` or `scp` from thie client to the server without 
 Step 6: Optimizing Remote Running
 ---
 
-Try running the following code with your own account:
+Now, Try running the following code with your own account:
+
+```
+$ scp WhereAmI.java cs15lwi22zz@ieng6.ucsd.edu:~/
+```
+```
+$ ssh cs15lwi22zz@ieng6.ucsd.edu "javac WhereAmI.java; java WhereAmI"
+```
 
 ![step6](https://user-images.githubusercontent.com/94575562/149452574-a08ddad2-ca79-443d-91a3-d5573da1e38c.PNG)
 
-This allows you to make a local edit to `WhereAmI.java`, then copy it to the remote server and run it
+This allows you to make a local edit to `WhereAmI.java`, then copy it to the remote server and run it in about 14 keystrokes.
