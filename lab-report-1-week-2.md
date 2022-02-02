@@ -123,4 +123,4 @@ $ ssh cs15lwi22zz@ieng6.ucsd.edu "javac WhereAmI.java; java WhereAmI"
 
 ![step6](https://user-images.githubusercontent.com/94575562/149452574-a08ddad2-ca79-443d-91a3-d5573da1e38c.PNG)
 
-This allows you to make a local edit to `WhereAmI.java`, then copy it to the remote server and run it in about 14 keystrokes.
+This allows you to make a local edit to `WhereAmI.java`, then copy it to the remote server and run it in about 14 keystrokes rather than 111 keystrokes if you were to type the commands out.
