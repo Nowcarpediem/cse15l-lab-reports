@@ -16,3 +16,8 @@
 * My implementation snippet 3:
 
 ![snip3](https://user-images.githubusercontent.com/94575562/155756988-df7475da-8621-4db6-a8fb-437624f0af91.png)
+
+* Other implementation snippet 1, 2, and 3:
+
+
+![brandon_snip](https://user-images.githubusercontent.com/94575562/155760979-4cf2ac38-d05e-401e-8c48-2baa980cb63a.png)
