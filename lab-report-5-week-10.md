@@ -23,5 +23,9 @@ Second test (633):
 * Given implementation output:
 * ![image](https://user-images.githubusercontent.com/94575562/157595651-a495719d-8f9d-444e-95ac-394f3ba428a8.png)
 
+* In this test, I believe the given implementation output is correct because there are no links in the test file so the output should be []. For the implementation that is incorrect (my implementation) my getLinks method does not consider the case that there would be no parenthesis found in the entire file which results in the index out of bounds exception. If no parenthesis are found, my code should just return an empty ArrayList like the givenn implementation
+* My code that should be fixed:
+* ![image](https://user-images.githubusercontent.com/94575562/157596311-5e4b9585-e8b0-40f4-bece-47fce0ff1f13.png)
+
 
 
